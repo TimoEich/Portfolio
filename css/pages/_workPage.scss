@@ -1,0 +1,4 @@
+section#workPage {
+    grid-area: workPage;
+    @include flexVerticalCenter;
+}

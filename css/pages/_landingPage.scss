@@ -1,0 +1,5 @@
+section#landingPage {
+    grid-area: landingPage;
+    @include flexVerticalCenter;
+    flex-direction: column;
+}
